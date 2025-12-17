@@ -12,7 +12,7 @@ https://sarvesh0415.github.io/login-form-validation/
 ## 📌 Features
 - Clean and modern UI
 - Username, email, password & confirm password fields
-- Basic form validation using JavaScript
+- Basic form validation using JavaScript in Dark Mode
 - Responsive layout
 - Hosted using GitHub Pages
 
